@@ -1,11 +1,10 @@
 
 # Hi there, Manikanta 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)](https://dattpanchal.netlify.app/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)]([https://dattpanchal.netlify.app/](https://manikantamedindi.github.io/))
 
-## I'm Coder, Learner, Blogger and ECE Student 
+## I'm Coder, Learner, Blogger
 
-- 🔭 I published Python & Web Development courses on my website ! Checkout [Courses][course]!
 - 🌱 I’m currently learning new skills !!
 - 🥅 2022 Goals: Learn more skills, Improvement in my-self and learning something new everytime
 - ⚡ Fun fact: I love to code on computer, learning skills of new world !!
