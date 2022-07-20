@@ -1,7 +1,7 @@
 
 # Hi there, Manikanta 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)]([https://dattpanchal.netlify.app/](https://manikantamedindi.github.io/))
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)]([[https://dattpanchal.netlify.app/](https://manikantamedindi.github.io/)](https://manikantamedindi.github.io/))
 
 ## I'm Coder, Learner, Blogger
 
