@@ -58,4 +58,4 @@ Hi 👋🏻, my self Datt Panchal. I am a 17 years old student who lives in Indi
 
 # GitHub States
 
-![Datt Panchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dattpanchal04&show_icons=true&theme=highcontrast)
+![Datt Panchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikantamedindi&show_icons=true&theme=highcontrast)
