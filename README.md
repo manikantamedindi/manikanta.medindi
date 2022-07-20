@@ -1,5 +1,5 @@
 
-# Hi there, I'm Datt 👋 
+# Hi there, Manikanta 👋 
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)](https://dattpanchal.netlify.app/)
 
